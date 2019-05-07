@@ -7,4 +7,5 @@
 3. [技能](<https://github.com/helloted/FlutterDebug/blob/master/content/feature.md>)
 4. [滚动监听](<https://github.com/helloted/FlutterDebug/blob/master/content/scrollNotificationListener.md>)
 5. [StatefulWidget为什么要定义为两个类？](<https://github.com/helloted/FlutterDebug/blob/master/content/why-are-stateful-widgets-defined-as-two-classes-in-flutter.md>)
+6. [Isolate vs Future？](<https://github.com/helloted/FlutterDebug/blob/master/content/flutter-isolate-vs-future.md>)
 
