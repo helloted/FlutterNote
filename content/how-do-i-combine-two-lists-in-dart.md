@@ -7,31 +7,27 @@ ___
 
 > 1
 
-You can use:
+可以
 
 ```dart
 var newList = new List.from(list1)..addAll(list2);
 ```
 
-If you have several lists you can use:
+或者
 
 ```dart
 var newList = [list1, list2, list3].expand((x) => x).toList()
 ```
 
-As of Dart 2 you can now use `+`:
+Dar2之后可以用 `+`:
 
 ```dart
 var newList = list1 + list2 + list3;
 ```
 
-As of Dart 2.3 you can use the spread operator:
+ Dart 2.3 之后可以这样用:
 
 ```dart
 var newList = [...list1, ...list2, ...list3];
 ```
-
-
-
-
 
